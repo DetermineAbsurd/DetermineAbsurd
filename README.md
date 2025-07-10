@@ -1,3 +1,3 @@
-[![DetermineAbsurd's GitHub stats](https://github-readme-stats.vercel.app/api?username=DetermineAbsurd&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+hello there, welcome to my profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DetermineAbsurd&theme=radical&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+I mainly use GitHub to contribute to other projects so you won't see many of my personal projects here. This goes for my other Git service accounts as well.

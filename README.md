@@ -46,7 +46,7 @@ Interests outside of technical fields:
   - General
     - Anderson .Paak, Armani White, Beast Coast, Connor Price, JID, Kendrick Lamar, Mac Miller, Saba
   - Emocore/Horrorcore
-    - 1nonly, Boofgods, Ghostmane, HAARPER, Freddie Dredd, Savage Ga\$p, \$uicideboy\$, SXMPRA
+    - 1nonly, Boofgods, Ghostmane, HAARPER, Freddie Dredd, Savage Ga\$p, $uicideboy\$, SXMPRA
   - Parody
     - bbno\$, Yung Gravy
 - Indie
